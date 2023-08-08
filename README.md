@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ben.ayesu.attah.us@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KAa_g6WeDYtvxYS9Wm3SjZaUWnyZnFqt/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1KAa_g6WeDYtvxYS9Wm3SjZaUWnyZnFqt/view?usp=sharing](https://drive.google.com/file/d/1PJNJdapeHyyZZXvy5sR6Y8gLdJ4YZgaI/view?usp=drive_link))
 
 - ⚡ Fun fact **I am pretty fast :)**
 
