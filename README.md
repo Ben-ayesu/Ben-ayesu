@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ben-ayesu](https://github.com/Ben-ayesu)
 
-- 📝 I regularly write articles on [https://medium.com/@ben.ayesu.attah](https://medium.com/@ben.ayesu.attah)
-
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose**
 
 - 📫 How to reach me **ben.ayesu.attah.us@gmail.com**
