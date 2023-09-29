@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything and Everything!!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ben-ayesu](https://github.com/Ben-ayesu)
+- 👨‍💻 All of my projects are available at [https://github.com/Ben-ayesu?tab=repositories)
 
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose**
 
