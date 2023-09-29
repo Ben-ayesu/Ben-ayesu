@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">A passionate mobile developer from Canada</h3>
 
-- 🔭 I’m currently working on [Sales Tax Calculator](https://github.com/Ben-ayesu/Sales_Tax)
+- 🔭 I’m currently working on Track and Field Journal Application
 
 - 🌱 I’m currently learning **Android Development and KMM**
 
