@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">A motivated developer from Canada</h3>
 
-- 🌱 I’m a recent graduate from the **Web Development** program at BrainStation.
+- 🌱 I’m a graduate from the **Web Development** program at BrainStation.
 - I'm Passionate about building user-friendly web and mobile applications that make a difference.
 - 🤝 I'm always open to collaborating on exciting projects and learning from others.
 - 🔗 Check out my recent project: [Track-it](https://github.com/Ben-ayesu/trackit-capstone)
